@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My website: www.nayablog.xyz
+My blog: www.cnblogs.com/nayameow
 QQ: 1207445468
