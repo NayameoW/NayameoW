@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Tiancheng</h1>
-<h3 align="left">A passionate SE undergraduate in Nanjing University</h3>
+<h3 align="left">An SE undergraduate in Nanjing University</h3>
 
 - 🔭 I’m currently working on **Database Tesing and Data Distillation**
 
