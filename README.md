@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Database Tesing and Data Distillation**
 
-- 🌱 I’m currently learning **Transaction Isolation**
+- 🌱 I’m currently learning **Trustworthy Machine Learning**
 
 - 💬 Ask me about **Machine Learning, Deep Learning**
 
