@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Tiancheng</h1>
 <h3 align="left">An SE undergraduate in Nanjing University</h3>
 
-- 🔭 I’m currently working on **Database Tesing and Data Distillation**
+- 🔭 I’m currently working on **Database Tesing and Large Language Models**
 
 - 🌱 I’m currently learning **Trustworthy Machine Learning**
 
-- 💬 Ask me about **Machine Learning, Deep Learning**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **xtc1207445468@outlook.com**
 
