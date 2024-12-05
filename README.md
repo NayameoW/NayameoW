@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Tiancheng</h1>
 <h3 align="left"> I obtained my bachelor's degree in Software Engineering from Nanjing University. I am currently pursuing a master's degree of Computing at NUS.</h3>
 
-- 🔭 I’m currently working on **Database Testing / Trustworthy Software Testing**
+- 🔭 I’m currently working on **Trustworthy {Software Testing / AI}**
 
 - 📫 How to reach me **tiancheng.x@u.nus.edu**
 
